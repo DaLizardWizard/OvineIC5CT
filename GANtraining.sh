@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 apt-get update
 pip install cupy-cuda101
 apt-get -y install git
